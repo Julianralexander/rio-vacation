@@ -1,0 +1,39 @@
+.container .jumbotron .headerimg {
+  width: 100%;
+}
+
+.container .jumbotron h2 {
+  text-align: center;
+  font-family: fantasy;
+}
+
+.container .jumbotron p {
+  text-align: center;
+  font-family: fantasy;
+}
+
+blockquote {
+  text-align: center;
+}
+
+.topnav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #FBEE03;
+    text-align: center;
+}
+
+.topnav li {
+    float: center;
+    color: #ffffff;
+    display: inline-block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.topnav li a:hover {
+    background-color: #green;
+}
